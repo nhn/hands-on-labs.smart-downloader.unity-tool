@@ -1,0 +1,26 @@
+****
+개요
+****
+
+Smart Downloader Unity Tool을 통해 리소스를 선택하여 업로드하고 배포하는 방법에 대해 다룹니다.
+
+
+학습할 내용
+============
+
+* Unity Tool을 이용하여 리소스 업로드하기
+* Unity Tool을 이용하여 리소스 배포하기
+
+
+준비물
+===========
+
+* `TOAST 계정 <https://toast.com/>`_
+
+* Unity 5.6.6 이상
+
+
+이전 단계
+============
+
+* Smart Downloader 서비스 생성하기

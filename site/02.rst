@@ -1,0 +1,25 @@
+######################
+설치
+######################
+
+
+Unity Tool 다운로드
+=====================
+
+1. `TOAST Downloads <http://docs.toast.com/ko/Download/#game-smart-downloader>`_ 접속
+
+2. **Game > Smart Downloader** 항목으로 이동
+
+3. **Unity Tool** 링크를 선택하여 다운로드
+
+
+Unity 설치
+=====================
+
+1. Unity 프로젝트를 엽니다.
+
+2. Unity에서 Assets > Import Package > Custom Package를 선택합니다.
+
+3. 다운로드한 Unity Tool 패키지 파일을 선택한 후 **Import** 합니다.
+   
+    .. image:: _static/image/sut_import.png

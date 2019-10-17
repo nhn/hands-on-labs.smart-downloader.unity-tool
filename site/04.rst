@@ -1,0 +1,42 @@
+######################
+인증
+######################
+
+툴이 열릴 때 자동 로그인 설정이 되어있지 않으면 **인증** 탭으로 이동합니다.
+
+    .. image:: _static/image/sut_credentials_tab.png
+
+User ID
+=====================
+
+* TOAST 로그인 시 사용되는 이메일을 뜻합니다.
+
+User Access Key ID, Secret Access Key
+=======================================
+
+1. `TOAST Console <https://console.toast.com>`_\ 에 로그인을 합니다.
+
+2. Console 화면 상단 오른쪽에 본인 계정을 누른 후 **API 보안 설정**\ 을 선택합니다.
+
+    .. image:: _static/image/console_user_access_key_01.png
+
+3. API 보안 설정에서 **User Access Key ID 발급** 을 선택합니다.
+
+    .. image:: _static/image/console_user_access_key_02.png
+
+4. User Access Key ID가 발급과 동시에 비밀 키도 발급이 됩니다. 비밀 키의 경우 발급 당시에만 확인이 가능하므로 안전하게 보관을 해두길 바랍니다.
+    
+    .. image:: _static/image/console_user_access_key_03.png
+
+5. 완료되면 User Access Key ID를 확인할 수 있습니다.
+
+    .. image:: _static/image/console_user_access_key_04.png
+
+Project ID
+=====================
+
+1. `TOAST Console <https://console.toast.com>`_\ 에 로그인을 합니다.
+
+2. Smart Downloader를 활성화 시킨 프로젝트를 선택한 후 설정 버튼을 누릅니다.
+
+    .. image:: _static/image/console_project_id.png
