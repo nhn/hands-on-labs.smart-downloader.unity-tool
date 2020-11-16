@@ -17,7 +17,7 @@ Smart Downloader Unity Tool을 통해 리소스를 선택하여 업로드하고 
 
 * `TOAST 계정 <https://toast.com/>`_
 
-* Unity 5.6.6 이상
+* Unity 2017.4.16 이상
 
 
 이전 단계
