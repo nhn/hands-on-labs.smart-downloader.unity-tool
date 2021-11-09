@@ -5,7 +5,7 @@ Smart Downloader: Unity Tool을 이용한 리소스 업로드
 * 카테고리: Game
 * 레벨: 초급
 * 시간: 15분
-* 업데이트: 2020.11.25
+* 업데이트: 2021.11.09
 
 .. toctree:: 
    :maxdepth: 1
